@@ -36,8 +36,12 @@ Bevacizumab (Avastin, Genentech). Bevacizumab is a recombinant humanized monoclo
 
 Cabozantinib (Cabometyx,Exelixis Inc). It is a small molecule inhibitor of the tyrosine kinases c-Met and VEGFR2, and has been shown to reduce tumor growth, metastasis, and angiogenesis. Approved in January 2011. Used to treat **metastatic advanced** prostate cancer (castration-resistant prostate cancer) (2011),  Glioblastoma multiforme and **advanced** clear renal cell carcinoma (2015).
 
+Gemcitabine, sold under the brand name Gemzar among others, is a chemotherapy medication used to treat a number of types of cancer. This includes breast cancer, non-small cell lung cancer, pancreatic cancer, bladder cancer, and biliary tract cancer.
+
 ### Drugs NOT approved for the treatment of cancer
 
 Denosumab (trade names Prolia and Xgeva, Amgen). Denosumab is used in the treatment of osteoporosis. It is a RANKL inhibitor, which works by preventing the development of osteoclasts which are cells that break down bone. Xgeva is the first drug to significantly increase bone metastasis-free survival in castration-resistant prostate cancer, but was not approved by FDA.
 
 Decitabine (trade name Dacogen), or 5-aza-2'-deoxycytidine, acts as an Nucleic Acid Synthesis Inhibitor.It is a drug for the treatment of myelodysplastic syndromes and for acute myeloid leukemia (AML). Decitabine did not achieve FDA approval for AML, but continues to be used off-label. Current research is focused on further defining subgroups of elderly AML patients who may derive greater benefit from decitabine therapy and combining it with other low-intensity active agents for AML.
+
+Iniparib (from Bipar) was a drug candidate for cancer treatment. It was originally believed to act as an irreversible inhibitor of PARP1 (hence, a PARP inhibitor). It underwent clinical trials for treatment of some types of breast cancer, but was discontinued after phase III clinical trials.
