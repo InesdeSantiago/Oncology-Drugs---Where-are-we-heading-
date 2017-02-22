@@ -22,11 +22,11 @@ Axitinib (Trade name Inlyta, Pfizer).  Inlyta works by blocking certain proteins
 
 Ruxolitinib (trade names Jakafi and Jakavi, Incyte). Ruxolitinib is a Janus kinase inhibitor with selectivity for subtypes JAK1 and JAK2 of this enzyme. Approved for myelofibrosis in February 2016.
 
-## Breast cancer
+### Breast cancer
 
 Trastuzumab (Herceptin, Genentech). Trastuzumab works by binding to the HER2 receptor and slowing down cell duplication. Trastuzumab was approved for medical use in the United States in 1998. Trastuzumab can be used in the treatment of **metastatic** and in **early stage (curable)** HER2-positive breast cancer. Around 20 companies worldwide, particularly from emerging markets, are developing biosimilar versions of the drug 'Herceptin' after Roche/Genentech's patents expired in 2014 in Europe, and in 2019 in the United States.
 
-## Ovarian Cancer
+### Ovarian Cancer
 
 Olaparib (trade name Lynparza, KuDOS/AstraZeneca). It is a PARP inhibitor, inhibiting poly ADP ribose polymerase (PARP), an enzyme involved in DNA repair.It acts against cancers in people with hereditary BRCA1 or BRCA2 mutations, which include some ovarian, breast, and prostate cancers. The FDA approval in 2014 is in germline BRCA mutated (gBRCAm) advanced ovarian cancer that has received three or more prior lines of chemotherapy.
 
@@ -36,9 +36,7 @@ Bevacizumab (Avastin, Genentech). Bevacizumab is a recombinant humanized monoclo
 
 Cabozantinib (Cabometyx,Exelixis Inc). It is a small molecule inhibitor of the tyrosine kinases c-Met and VEGFR2, and has been shown to reduce tumor growth, metastasis, and angiogenesis. Approved in January 2011. Used to treat **metastatic advanced** prostate cancer (castration-resistant prostate cancer) (2011),  Glioblastoma multiforme and **advanced** clear renal cell carcinoma (2015).
 
-
-
-## Drugs NOT approved for the treatment of cancer
+### Drugs NOT approved for the treatment of cancer
 
 Denosumab (trade names Prolia and Xgeva, Amgen). Denosumab is used in the treatment of osteoporosis. It is a RANKL inhibitor, which works by preventing the development of osteoclasts which are cells that break down bone. Xgeva is the first drug to significantly increase bone metastasis-free survival in castration-resistant prostate cancer, but was not approved by FDA.
 
