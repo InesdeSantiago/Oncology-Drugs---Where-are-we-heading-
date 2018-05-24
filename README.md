@@ -1,8 +1,6 @@
-# oncology drugs
-
 What oncology drugs have been approved to date? How much time and money was spent in their development? How much revenue did they bring? How much OS and PFS did they increase (in absolute months)? How many patients develop resistance? What pathways do they hit and are these pathways the answer to resistant mechanisms (Do we need to hit 2 pathways or different pathways?). How many of these have companion biomarkers? How many patients did not respond to treatment - Is this because of lack of better patient stratification? Should we spend more time on phase I? How many of these drugs could treat across different cancers - what are the common altered pathways in different cancers (e.g. HER2 amplification in Lung Cancer)? Should we focus more on earlier stage? If I could fund 10 clinical trials today, how to select them - possibly the ones on earlier stage? or should I fund the later stage? I would choose the drug that would give me more return / or the drug that saves more people?
 
-# How we measure cost-effective drugs
+# How we measure cost-effective drugs?
 
 Outcomes for effects are measured in life years (LYs) which represent the average number of years of life per patient. This is measured by the area under the survival curve. LYs are weighted by estimates of health related quality of life represented by ‘utility’ values to produce quality adjusted life years (QALYs). Cost outcomes are measured as average cost per patient. The final cost- effectiveness outcome measure is the difference in costs divided by the difference in effects (cost per QALY); this is referred to as the incremental cost-effectiveness ratio (ICER). In the UK the threshold ICER for an intervention being cost-effective has been estimated to be up to £30,000. 
 
@@ -14,8 +12,7 @@ A particular good example is in Chronic Myeloid Leukimia, Bower et al have shown
 
 Another cited example is  Trastuzumab (TR). Metastatic breast cancer (MBC) is rarely curable at present, although some women live with it for many years; the median overall survival (OS) ranges from 18 to 24 months. Around 25% of over-express HER2. TR is a monoclonal antibody approved by EMA in 2000 and one of the first examples of “targeted therapy”, is indicated to treat HER2 positive breast cancer. Cost-effective studies don't always agree on the benefit of TR. For instance, the latest draft guidance on trastuzumab emtansine reverses a previous recommendation issued last December in which NICE said that the drug was too expensive (https://www.bmj.com/content/357/bmj.j2930). The cost of £90 000 (€103 000; $115 000) for an average course of treatment (14.5 months) gives trastuzumab a cost per quality adjusted life year (QALY) of £166 000, which was well above the normal threshold for drugs used at the end of life. 
 
-# Costly cancer drugs and treatment failure 
-
+# Costly cancer drugs
 
 Fojo et al 2014 has investigated FDA-approved oncology therapies and their limited survival progress against major cancers from 2002 to 2014 (https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/1891387?redirect=true ). 71 cancer drugs were approved, 52 were targeted therapies. For 23 drugs only progression free survival (PFS) is available - no Overall survival (OS). The increase of median progression-free survival was of 2.5 months, and overall survival of 2.1 months.
 The guidelines to consider survival improvements as 'clinically significant' vary from cancer to cancer. For instance, for pancreatic cancer (where the current OS is 10-14 months), an improvement of 4 months in OS is considered significant. For lung cancer (current survival is 13 months), 3.25 months is considered significant; and for metastatic triple-negative breast cancer (survival is 18 months), at least an additional 4.5 months is considered a significant improvement in survival. Only 30 of the 71 cancer drugs meet these guidelines.
@@ -26,9 +23,17 @@ Median monthly cost of cancer drugs at time of approval by FDA has increased ove
 
 Similar findings have been reported regarding EMA. From 2009 to 2013, the EMA approved the use of 48 cancer drugs for 68 indications with a magnitude of the overall survival benefit ranged from 1.0 to 5.8 months (median 2.7 months) (https://www.bmj.com/content/359/bmj.j4530). At time of market approval, according to the EPARs, there was significant prolongation of survival in just over a third (24/68, 35%) of all drug indications (including 3/17 drugs to treat haematological malignancies and 21/51 drugs to treat solid tumours). For the 44 (65%) remaining drug indications, there was no conclusive evidence at time of market authorisation that the drugs offered survival benefits, either as add on treatment or compared with placebo or existing treatment options in their authorised use.
 
-# How much money is spent on developing drugs?
+# How much money is spent on R&D drugs?
 
-# How many cancer drugs are currently being developed?
+There is a progressive decline in the number of new drugs per billion US dollars of R&D spending (~80-fold) (https://www.nature.com/articles/nrd3681).
+
+The data in the figure below show that the number of new FDA-approved drugs per billion US dollars of R&D spending in the drug industry 
+has halved approximately every 9 years since 1950, in inflation-adjusted terms. Part of the contrast between Moore’s Law and Eroom’s Law is related to the complexity and limited current understanding of biological systems versus the relative simplicity and higher level of understanding of solid-state physics but, as discussed by the authors, there are other important causes which the authors summarise as  ‘better than the Beatles’ problem; the ‘cautious regulator’  problem; the ‘throw money at it’ tendency; and the ‘basic research–brute force’ bias. - good read!
+
+![](https://media.nature.com/lw926/nature-assets/nrd/journal/v11/n3/images/nrd3681-f1.jpg)
+Figure Legend: The number of new drugs approved by the US Food and Drug Administration (FDA) per billion US dollars (inflation-adjusted) spent on research and development (R&D) has halved roughly every 9 years. 
+
+# How many new drugs are currently being developed?
 
 The Cancer Research Institute (CRI) published the most comprehensive assessment ever (https://academic.oup.com/annonc/advance-article/doi/10.1093/annonc/mdx755/4693829) of the state of research and development for immunotherapies. This report identified a staggering 2,004 immunotherapies in development or on the market across the world.
 
