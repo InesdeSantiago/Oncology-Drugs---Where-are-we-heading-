@@ -23,8 +23,60 @@ Howard et al., 2015 analysed the trends in the launch prices for 58 anticancer d
 Median monthly cost of cancer drugs at time of approval by FDA has increased over the years: 
 ![](https://www.mskcc.org/sites/default/files/styles/width_800/public/node/25097/inline_images/081517-drug-price-log-plot_3x2.jpg)
 
-Similar findings have been reported regarding EMA. From 2009 to 2013, the EMA approved the use of 48 cancer drugs for 68 indications with a magnitude of the overall survival benefit ranged from 1.0 to 5.8 months (median 2.7 months). (http://ascopubs.org/doi/abs/10.1200/jco.2015.33.15_suppl.e17788). At time of market approval, according to the EPARs, there was significant prolongation of survival in just over a third (24/68, 35%) of all drug indications (including 3/17 drugs to treat haematological malignancies and 21/51 drugs to treat solid tumours). For the 44 (65%) remaining drug indications, there was no conclusive evidence at time of market authorisation that the drugs offered survival benefits, either as add on treatment or compared with placebo or existing treatment options in their authorised use.
+Similar findings have been reported regarding EMA. From 2009 to 2013, the EMA approved the use of 48 cancer drugs for 68 indications with a magnitude of the overall survival benefit ranged from 1.0 to 5.8 months (median 2.7 months) (https://www.bmj.com/content/359/bmj.j4530). At time of market approval, according to the EPARs, there was significant prolongation of survival in just over a third (24/68, 35%) of all drug indications (including 3/17 drugs to treat haematological malignancies and 21/51 drugs to treat solid tumours). For the 44 (65%) remaining drug indications, there was no conclusive evidence at time of market authorisation that the drugs offered survival benefits, either as add on treatment or compared with placebo or existing treatment options in their authorised use.
 
+# How much mony is spent on developing drugs?
+
+# How many cancer drugs are acurrently being developped?
+
+The Cancer Research Institute (CRI) published the most comprehensive assessment ever (https://academic.oup.com/annonc/advance-article/doi/10.1093/annonc/mdx755/4693829) of the state of research and development for immunotherapies. This report identified a staggering 2,004 immunotherapies in development or on the market across the world.
+
+A team at the Anna-Maria Kellen Clinical Accelerator of the Cancer Research Institute (CRI) in New York have published an important new paper in the Annals of Oncology  (https://academic.oup.com/annonc/article/29/1/84/4693829) (doi:10.1093/annonc/mdx755) – helping the cancer community to stay informed of the current immuno-oncology (IO) landscape and identifying a number of key trends.
+
+Illustrating the rapid progress in the immuno-oncology field over the last 30 years, the authors highlight that since the approval of the first immunotherapy (interferon-α), a further 25 agents have followed - and an impressive 17 types of cancer now have at least one agent approved as a treatment option.
+
+We have witnessed a transformation in the IO landscape - starting with the approval of ipilimumab for advanced melanoma in 2011. In the past three years alone, eight new immunotherapies were approved - which in most cases, provide desperately-needed new options for patients with advanced, refractory or relapsed cancers.
+
+However, with this success brings a new challenge. With huge investment from industry in and a plethora of companies entering the field, there is now an unprecedented number of new immunotherapy agents at various stages in the drug development pipeline. And this makes it difficult – and potentially overwhelming - to keep track of what’s going on! For cancer patients, this means there are more experimental I-O drugs than ever before that hold hope for more effective treatment. But there's also a downside to having so many drugs being researched.
+
+To help address this, the team set out to curate a much-needed comprehensive overview of this rapidly evolving landscape. Collecting information from a number of trusted and publicly available sources (up to a cut-off date of September 2017), they have created two new databases tracking:
+
+* A total of 2,004 immuno-oncology agents (940 in clinical stage and 1,064 in pre-clinical testing). Of the 2,004 I-O drugs in development, 940 were in clinical testing with humans or already approved after having completed clinical testing. The remaining 1,064 drugs were in preclinical testing. These drugs target 303 specific types of cancer. That might seem like an extraordinarily high number, but there are often many types of genetic mutations that cause one broader type of cancer.
+* The 3,042 active clinical trials – covering all common cancer types and the majority of the less common ones. For those 940 I-O drugs in clinical testing, the CRI is tracking 3,042 active clinical trials. These trials combine for total enrollment of 577,076 patients. Some of the clinical trials have already fully enrolled, while others are either actively enrolling or plan to begin enrolling in the future. These collectively aim to recruit 577,076 patients.
+
+The overview of 2,004 IO agents. 6 classes of IO agents are identified on the basis of different mechanisms of actions. Unspecified tumor associated antigen (Unspecified TAA) is defined as the target of unspecified antigens from either individual patients or cell lines. In this sense, therapies against this target mainly consist of cell line-based vaccines, autologous tumor vaccines, autologous DC vaccines, and tumor infiltrating T cell therapies (TIL). Personalization is defined as the targets discovered by algorithm-based approaches from, e.g., the individual patients’ tumor samples or blood circulating DNA.
+
+
+![](https://academic.oup.com/view-large/figure/108995110/mdx755f1.tif)
+Figure legend: The overview of 2004 immuno-oncology (IO) agents. Six classes of IO agents are identified on the basis of different mechanisms of actions.
+
+
+While there are a huge number of experimental I-O drugs, only 26 have won regulatory approval so far. The first was interferon-alpha back in 1986. The real turning point, though, came in 2011 when Bristol-Myers Squibb (NYSE: BMY) won approval for checkpoint inhibitor Yervoy in treating advanced melanoma. Checkpoint inhibitors block proteins that interfere with the body's immune cells attacking cancer cells. Another checkpoint inhibitor from Bristol-Myers Squibb, Opdivo, is projected to become the No. 2 cancer drug (https://www.fool.com/investing/2017/07/10/these-5-cancer-drugs-will-be-the-biggest-winners-5.aspx) in the world in sales within the next few years.
+
+
+The numbers from CRI show where the scientific community seems to think the most potential for fighting cancer lies. CRI found 344 cancer vaccines either in clinical development or on the market. These vaccines target either preventing cancer or treating existing cancer. 
+
+There are 224 clinical-stage cell therapy I-O drugs. Cell therapy involves putting cellular material into a patient to fight cancer. Novartis' (NYSE: NVS) Kymriah became the first cell therapy to win regulatory approval in August for treatment of B-cell precursor acute lymphoblastic leukemia (ALL). Gilead Sciences (NASDAQ: GILD), thanks to its acquisition of Kite Pharma, followed closely behind in October with approval of another cell therapy, Yescarta, in treating large B-cell lymphoma.
+
+CRI identified 99 immunomodulators that target T cells in clinical testing or on the market. T cells are immune cells produced in the thymus gland (which is where the "T" comes from in their name). Another 170 clinical-stage immunomodulators are targeting other immune cells or the tumor immune microenvironment.
+
+![](https://academic.oup.com/view-large/figure/108995113/mdx755f2.tif)
+Figure Legend: The top 40 targets with the most clinical-stage immuno-oncology agents. Unspecified tumor-associated antigen is defined as the target of unspecified antigens from either individual patients and cell lines. In this sense, therapies against this target mainly consist of cell line-based vaccines, autologous tumor vaccines, autologous DC vaccines, and tumor-infiltrating T-cell therapies. Personalization is defined as the targets discovered by algorithm-based approaches from, e.g. the individual patients’ tumor samples or blood circulating DNA.
+
+There was one other thing from the CRI report that stood out to me: Those 2,004 drugs were owned by 864 companies. Even in China, which has been a communist nation for more than 70 years, businesses lead the way in cancer drug development. The report stated that 46 Chinese companies owned 98 clinical-stage immunotherapies focused on CAR-T (chimeric antigen receptor T cell) development.
+
+![](https://academic.oup.com/view-large/figure/108995117/mdx755f4.tif)
+Figure Legend: The landscape of CAR-T-cell therapy. China leads the total number of clinical-stage CAR-T-cell therapies, whereas United States has the largest number of preclinical agents.
+
+All of the 26 immunotherapies available to patients today are owned by biopharmaceutical companies. The most promising cancer drugs that could be game changers (https://www.fool.com/investing/2017/07/10/these-5-cancer-drugs-will-be-the-biggest-winners-5.aspx) are being developed by businesses, and most of them are publicly traded corporations. It's no surprise that the stocks of the most innovative biopharmaceutical companies, such as bluebird bio and Juno Therapeutics, rank among the hottest on the market. 
+
+It seems that better treatment -- and perhaps one day even a cure (or cures) -- for cancer will ultimately come as a result of capitalism. The pursuit of profit, while attacked by some, is probably the best reason to think that there's hope for a world where one day cancer doesn't kill more than 8 million people every year.
+
+Through analysing these data, they identify some important key trends:
+
+* A large number of overlaps, with companies chasing the same targets
+* An avalanche in the number of studies involving anti-PD-1/L1 combinations, many of which are testing the same combinations
+* A big increase in small studies, initiated by researchers
 
 # Some cancer drug examples
 
